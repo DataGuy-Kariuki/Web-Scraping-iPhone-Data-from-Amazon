@@ -1,0 +1,10 @@
+name: kariukidatablog-main
+title:
+username: kamwanaanalyst
+account: kamwanaanalyst
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13185686
+bundleId: 9293121
+url: https://kamwanaanalyst.shinyapps.io/kariukidatablog-main/
+version: 1
